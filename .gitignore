@@ -68,7 +68,6 @@ typings/
 __screenshots__/
 
 # build files
-dist/
 lib/
 __static_webviz__/
 
